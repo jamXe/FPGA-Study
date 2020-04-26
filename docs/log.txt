@@ -1,0 +1,15 @@
+ref_clk0 -> E1
+
+pin:
+3.3V通过10K电阻开关到地
+S0 -> M1
+S1 -> M2
+S2 -> N1
+
+3.3V通过1K电阻LED到地
+LED0 -> R1
+LED1 -> P2
+LED2 -> P1
+LED3 -> N2
+
+
