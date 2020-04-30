@@ -9,7 +9,7 @@ module pwm_breath_led(
 	output	led	;
 	
 	reg		led	;
-	reg	[80:0]	cnt_pwm		;
+	reg	[18:0]	cnt_pwm		;
 	wire				add_cnt_pwm	;
 	wire				end_cnt_pwm	;
 	
