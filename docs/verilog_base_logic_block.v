@@ -172,9 +172,7 @@ module testbench_name();
 	//生成本地时钟50M
 	initial begin
 		clk = 0;
-		forever
-		#(CYCLE/2)
-		clk=~clk;
+		forever	#(CYCLE/2)	clk=~clk;
 	end
 	//产生复位信号
 	initial begin
