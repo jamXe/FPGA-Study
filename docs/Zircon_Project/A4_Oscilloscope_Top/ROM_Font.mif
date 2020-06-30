@@ -1,0 +1,199 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   0000;
+	001  :   07F0;
+	002  :   0808;
+	[003..004]  :   1004;
+	005  :   0808;
+	006  :   07F0;
+	[007..008]  :   0000;
+	[009..00A]  :   0804;
+	00B  :   1FFC;
+	[00C..00D]  :   0004;
+	[00E..010]  :   0000;
+	011  :   0E0C;
+	012  :   1014;
+	013  :   1024;
+	014  :   1044;
+	015  :   1184;
+	016  :   0E0C;
+	[017..018]  :   0000;
+	019  :   0C18;
+	01A  :   1004;
+	[01B..01C]  :   1104;
+	01D  :   1288;
+	01E  :   0C70;
+	[01F..020]  :   0000;
+	021  :   00E0;
+	022  :   0320;
+	023  :   0424;
+	024  :   0824;
+	025  :   1FFC;
+	026  :   0024;
+	[027..028]  :   0000;
+	029  :   1F98;
+	02A  :   1084;
+	[02B..02C]  :   1104;
+	02D  :   1088;
+	02E  :   1070;
+	[02F..030]  :   0000;
+	031  :   07F0;
+	032  :   0888;
+	[033..034]  :   1104;
+	035  :   1888;
+	036  :   0070;
+	[037..038]  :   0000;
+	039  :   1C00;
+	03A  :   1000;
+	03B  :   10FC;
+	03C  :   1300;
+	03D  :   1C00;
+	03E  :   1000;
+	[03F..040]  :   0000;
+	041  :   0E38;
+	042  :   1144;
+	[043..044]  :   1084;
+	045  :   1144;
+	046  :   0E38;
+	[047..048]  :   0000;
+	049  :   0700;
+	04A  :   088C;
+	[04B..04C]  :   1044;
+	04D  :   0888;
+	04E  :   07F0;
+	[04F..050]  :   0000;
+	[051..052]  :   000C;
+	[053..057]  :   0000;
+	058  :   1000;
+	059  :   1E00;
+	05A  :   11E0;
+	05B  :   001C;
+	05C  :   0070;
+	05D  :   1380;
+	05E  :   1C00;
+	05F  :   1000;
+	060  :   0209;
+	061  :   3E71;
+	062  :   0202;
+	063  :   FEF2;
+	064  :   1204;
+	065  :   1278;
+	066  :   0201;
+	067  :   4FF2;
+	068  :   4804;
+	069  :   5818;
+	06A  :   6BE0;
+	06B  :   4808;
+	06C  :   4804;
+	06D  :   4FF2;
+	06E  :   4001;
+	06F  :   0000;
+	070  :   0010;
+	071  :   2890;
+	072  :   2510;
+	073  :   2210;
+	074  :   2490;
+	075  :   2C90;
+	076  :   B590;
+	077  :   66BF;
+	078  :   2490;
+	079  :   2990;
+	07A  :   20D0;
+	07B  :   2210;
+	07C  :   2510;
+	07D  :   2890;
+	07E  :   0010;
+	[07F..081]  :   0000;
+	[082..083]  :   006C;
+	[084..08F]  :   0000;
+	090  :   1004;
+	091  :   1FFC;
+	092  :   1084;
+	[093..094]  :   0080;
+	095  :   1084;
+	096  :   1FFC;
+	097  :   1004;
+	098  :   0000;
+	099  :   0184;
+	09A  :   010C;
+	09B  :   0134;
+	09C  :   0144;
+	09D  :   0184;
+	09E  :   010C;
+	09F  :   0000;
+	0A0  :   1004;
+	0A1  :   1FFC;
+	0A2  :   1104;
+	0A3  :   0380;
+	0A4  :   1464;
+	0A5  :   181C;
+	0A6  :   1004;
+	[0A7..0A8]  :   0000;
+	0A9  :   0FF8;
+	0AA  :   0008;
+	0AB  :   FFF0;
+	0AC  :   0010;
+	0AD  :   0FF8;
+	0AE  :   0108;
+	0AF  :   0908;
+	0B0  :   32A8;
+	0B1  :   EAA8;
+	0B2  :   25FF;
+	0B3  :   2AA8;
+	0B4  :   32A8;
+	0B5  :   2108;
+	0B6  :   0108;
+	[0B7..0B8]  :   0000;
+	0B9  :   0FF8;
+	0BA  :   0008;
+	0BB  :   FFF0;
+	0BC  :   0010;
+	0BD  :   0FF8;
+	0BE  :   0108;
+	0BF  :   0908;
+	0C0  :   32A8;
+	0C1  :   EAA8;
+	0C2  :   25FF;
+	0C3  :   2AA8;
+	0C4  :   32A8;
+	0C5  :   2108;
+	0C6  :   0108;
+	0C7  :   0000;
+	0C8  :   0080;
+	0C9  :   0100;
+	0CA  :   0600;
+	0CB  :   1FFF;
+	0CC  :   E002;
+	0CD  :   2002;
+	0CE  :   27FE;
+	[0CF..0D0]  :   2552;
+	0D1  :   FD52;
+	[0D2..0D3]  :   2552;
+	0D4  :   27FE;
+	0D5  :   2002;
+	0D6  :   0002;
+	[0D7..0D9]  :   0000;
+	[0DA..0DB]  :   006C;
+	[0DC..0FF]  :   0000;
+END;
